@@ -1,6 +1,3 @@
-template.md
-test.py
-test2.py
-test4.py
 .idea/
-./test
+test/
+template.md
